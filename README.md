@@ -1,4 +1,4 @@
-<p><img src="http://www.openpilot.org/wp-content/uploads/2014/10/openpilot_logo_std_900x900.png" style="max-width:20%"></p>
+<p><img src="http://www.openpilot.org/wp-content/uploads/2014/10/openpilot_logo.png"></p>
 
 ## What is OpenPilot all about?
 
